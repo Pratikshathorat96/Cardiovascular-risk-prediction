@@ -1,3 +1,6 @@
+
+![image](https://user-images.githubusercontent.com/120496034/236704455-c3c6f97e-7af2-48cb-b1d8-daf8347849c0.png)
+
 # Cardiovascular-risk-prediction
 Cardiovascular risk prediction Ml classification
 
