@@ -2,7 +2,7 @@
 
 
 
-# Cardiovascular-risk-prediction
+# **CARDIOVASCULAR RISK PREDICTION**
 Cardiovascular risk prediction Ml classification
 
 # Introduction: 
